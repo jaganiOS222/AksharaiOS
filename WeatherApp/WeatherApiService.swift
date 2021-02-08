@@ -14,7 +14,7 @@ protocol WeatherApiProtocal {
 
 class WeatherApiService: DataService,WeatherApiProtocal {
     var lat:String = "",long:String = "",exclude:String = ""
-    static let apiKey = "86162e07f5247b2a76897c17c2ddddb9"
+    static let apiKey = "****************************"
   
     
     
